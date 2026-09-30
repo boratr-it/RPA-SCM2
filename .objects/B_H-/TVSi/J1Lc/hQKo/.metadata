@@ -1,0 +1,14 @@
+﻿{
+  "Name": "push button btn_Search",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "hQKoTc73qkW76iYRAVmWvg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/hQKoTc73qkW76iYRAVmWvg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-03T01:26:55.1995125Z",
+  "Updated": "2026-09-03T01:26:55.1995125Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

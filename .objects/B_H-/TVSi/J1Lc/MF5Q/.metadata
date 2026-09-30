@@ -1,0 +1,14 @@
+﻿{
+  "Name": "첨부파일",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "MF5Q0-hwUE299wkS-bNLsQ",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/MF5Q0-hwUE299wkS-bNLsQ",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-15T08:13:47.8316358Z",
+  "Updated": "2026-09-15T08:13:47.8316358Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

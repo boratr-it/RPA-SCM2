@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="joj9qA4Jo0SAvKRcHxSu8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="138, 67, 76, 17" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='DockLayoutManager(*)' /&gt;&lt;ctrl automationid='layout_Doc' /&gt;&lt;ctrl automationid='DocumentHost' /&gt;&lt;ctrl automationid='통관리스트TabButtonId' /&gt;&lt;ctrl automationid='통관리스트' /&gt;" Guid="8e06653c-2f23-401e-a18e-fd1d03764e5c" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c4cdd57fc584b65dcf4cf42e2ffac02.jpg" xmlns="">0xnsoWV4p7UqQJ8BwcsB5-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

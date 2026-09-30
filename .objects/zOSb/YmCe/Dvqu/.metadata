@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 수입식품정보마루",
+  "Type": "Screen",
+  "Id": "DvquYh1NEk2G8o4YE3sbeg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/DvquYh1NEk2G8o4YE3sbeg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-08-26T02:21:32.1819675Z",
+  "Updated": "2026-08-26T02:21:32.1819675Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kkDEsMt7C0iiqr4K7LF9PA" Reference="BlP1vrN3pkicaMkvnFDZUQ/ZoJNBGnCpEuh5cEiN5xALg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://unipass.customs.go.kr/csp/index.do" ContentHash="OjNVgb4_PUS0lUe705krpw" DesignTimeRectangle="309, 455, 1481, 69" ElementType="TableRow" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='수입신고필증 목록조회신고서여부, 필증여부, 고지서여부, 신고번호, 상호, 품명, 신고일자, 수리일자, 세관, 무역거래처상호, 과, 관세사출력여부, 수입신고가격' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr' tag='TR' /&gt;" Guid="ffec34bf-9893-4028-bbac-a1acb95281a7" Reference="BlP1vrN3pkicaMkvnFDZUQ/ZoJNBGnCpEuh5cEiN5xALg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="af163e15ba897fbe5ec58c2531b6c8f2.jpg" xmlns="">0bfFklMnGmEG-5k6Lk0qiEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ForEachUiElement</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='CurrentElement'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

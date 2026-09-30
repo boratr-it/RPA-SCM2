@@ -1,0 +1,13 @@
+﻿{
+  "Name": "셀",
+  "Type": "Element",
+  "Id": "0Zxc4OICpkqkDV4WzQ3kKg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/0Zxc4OICpkqkDV4WzQ3kKg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-27T08:18:19.0784987Z",
+  "Updated": "2026-09-27T08:18:19.0784987Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

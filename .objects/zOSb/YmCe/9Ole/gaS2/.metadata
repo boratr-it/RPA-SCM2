@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IMP_4269026342142M_2.pdf",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gaS2dyQ1dUmOl2w5i7QXkg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/gaS2dyQ1dUmOl2w5i7QXkg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/9OleZkUWfkGhGrsgMfJxDQ",
+  "Created": "2026-08-13T06:05:11.359738Z",
+  "Updated": "2026-08-13T06:05:11.359738Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

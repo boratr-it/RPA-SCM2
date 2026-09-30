@@ -1,0 +1,14 @@
+﻿{
+  "Name": "1주일",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YG-boJiNvEmK6_lt8lnGWA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/YG-boJiNvEmK6_lt8lnGWA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/9OleZkUWfkGhGrsgMfJxDQ",
+  "Created": "2026-08-21T01:17:13.6285433Z",
+  "Updated": "2026-08-21T01:17:13.6285433Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "unipass.customs.go.krc…(1)",
+  "Type": "Element",
+  "Id": "TGKM2LukLkedmRGYwBK2oA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/TGKM2LukLkedmRGYwBK2oA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/9OleZkUWfkGhGrsgMfJxDQ",
+  "Created": "2026-08-24T00:57:20.9655759Z",
+  "Updated": "2026-08-24T00:57:20.9655759Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

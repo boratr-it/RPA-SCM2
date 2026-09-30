@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome unipass.customs.go.krcspmyccsclfrmlotp",
+  "Type": "Screen",
+  "Id": "Z4hdlL2RrUGCE92R6hDg3Q",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/Z4hdlL2RrUGCE92R6hDg3Q",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-08-21T04:25:05.7935483Z",
+  "Updated": "2026-08-21T04:25:05.7935483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

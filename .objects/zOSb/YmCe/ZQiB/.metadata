@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 수입신고 진행상황  수입식품정보마루",
+  "Type": "Screen",
+  "Id": "ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-08-27T01:30:29.9332347Z",
+  "Updated": "2026-08-27T01:30:29.9332347Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

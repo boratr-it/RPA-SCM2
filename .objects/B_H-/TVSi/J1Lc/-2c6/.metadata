@@ -1,0 +1,13 @@
+﻿{
+  "Name": "PART_Caption",
+  "Type": "Element",
+  "Id": "-2c6meIfh0ytUWUC2gSAVQ",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/-2c6meIfh0ytUWUC2gSAVQ",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-28T01:35:19.6078826Z",
+  "Updated": "2026-09-28T01:35:19.6078826Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

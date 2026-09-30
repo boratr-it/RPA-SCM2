@@ -1,0 +1,13 @@
+﻿{
+  "Name": "다른 이름으로 저장 확인",
+  "Type": "Element",
+  "Id": "0MESRSsB-U-wivdvDU3njg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/0MESRSsB-U-wivdvDU3njg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/gvAwIeodaUWVcGRpJbHIKA",
+  "Created": "2026-09-29T01:37:53.4798694Z",
+  "Updated": "2026-09-29T01:37:53.4798694Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

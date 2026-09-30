@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8q9NPu968UK4MwCTPzfecQ" Reference="BlP1vrN3pkicaMkvnFDZUQ/CbVaeTtjBkaA6wABqLUG8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="479, 515, 17, 16" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='수입신고필증 목록조회신고서여부, 필증여부, 고지서여부, 신고번호, 상호, 품명, 신고일자, 수리일자, 세관, 무역거래처상호, 과, 관세사출력여부, 수입신고가격' tag='TABLE' /&gt;&lt;webctrl name='MYC0112185S_cb2' tableRow='*' tag='INPUT' /&gt;" Guid="63915b7d-1dba-4740-8c96-238c5ec14626" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c73c40e0c3aa82590d7d84aeb0171024.jpg" xmlns="">09zNYmak5G0qLqjnSw9QK2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

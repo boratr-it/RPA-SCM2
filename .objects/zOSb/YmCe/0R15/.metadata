@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 새 탭",
+  "Type": "Screen",
+  "Id": "0R15dLvt5UKbb0zcLjmWBA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/0R15dLvt5UKbb0zcLjmWBA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-09-03T08:50:34.9200114Z",
+  "Updated": "2026-09-03T08:50:34.9200114Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

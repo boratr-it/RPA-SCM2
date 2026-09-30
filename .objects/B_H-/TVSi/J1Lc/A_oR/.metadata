@@ -1,0 +1,14 @@
+﻿{
+  "Name": "신고기간",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "A_oRB2iCaUSqugVbHJwerw",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/A_oRB2iCaUSqugVbHJwerw",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-03T01:25:44.9849982Z",
+  "Updated": "2026-09-03T01:25:44.9849982Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

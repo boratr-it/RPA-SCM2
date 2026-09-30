@@ -1,0 +1,14 @@
+﻿{
+  "Name": "검색",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wfHb1YtXkkyIGfIVodlB1Q",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/wfHb1YtXkkyIGfIVodlB1Q",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Created": "2026-08-27T01:34:02.3077228Z",
+  "Updated": "2026-08-27T01:34:02.3077228Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "총 579건",
+  "Type": "Element",
+  "Id": "BcHEYtJF90yzD9UJrDwoDw",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/BcHEYtJF90yzD9UJrDwoDw",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Created": "2026-08-28T05:50:23.2517022Z",
+  "Updated": "2026-08-28T05:50:23.2517022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

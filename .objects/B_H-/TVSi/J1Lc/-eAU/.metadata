@@ -1,0 +1,13 @@
+﻿{
+  "Name": "통관등록",
+  "Type": "Element",
+  "Id": "-eAUNz5ORkuXDK2N9OeGaA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/-eAUNz5ORkuXDK2N9OeGaA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-22T02:46:01.1986483Z",
+  "Updated": "2026-09-22T02:46:01.1986483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
