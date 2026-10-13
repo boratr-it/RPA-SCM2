@@ -1,0 +1,14 @@
+﻿{
+  "Name": "httpsimpfood.mfds.go…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "hvSSTz5_wU-bn12obShYlw",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/hvSSTz5_wU-bn12obShYlw",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Created": "2026-10-13T05:03:30.5232037Z",
+  "Updated": "2026-10-13T05:03:30.5232037Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

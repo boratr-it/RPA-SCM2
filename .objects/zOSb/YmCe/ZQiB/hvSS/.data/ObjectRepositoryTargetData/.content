@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aAul8SaizE2qpHAzOV9ovw" Reference="BlP1vrN3pkicaMkvnFDZUQ/hvSSTz5_wU-bn12obShYlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="impfood.mfds.go.kr/CFRAB01F01/getList" DesignTimeRectangle="252, 73, 1405, 31" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='수입신고 진행상황 :: 수입식품정보마루 - Chrome' role='pane' /&gt;&lt;ctrl name='주소창 및 검색창' role='editable text' /&gt;" Guid="b72410af-57ee-4bb9-af3b-5664c90f44d4" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='수입신고 진행상황 :: 수입식품정보마루 - Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e8d98426273f14927d34d0457bc10104.jpg" xmlns="">0lye3T63V3keahntRC6bfhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
