@@ -184,19 +184,19 @@
             <av:PointCollection x:Key="ConnectorLocation">215,60 265,60</av:PointCollection>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <Sequence DisplayName="Unipass" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_2">
+        <Sequence DisplayName="Unipass" sap:VirtualizedContainerService.HintSize="722,8068" sap2010:WorkflowViewState.IdRef="Sequence_2">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="Chrome 국가관세종합정보시스템 서비스" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="524,8145" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.Always]" ScopeGuid="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V2" WindowResize="Maximize">
+          <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="Chrome 국가관세종합정보시스템 서비스" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="688,8008" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.Always]" ScopeGuid="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V2" WindowResize="Maximize">
             <uix:NApplicationCard.Body>
               <ActivityAction x:TypeArguments="x:Object">
                 <ActivityAction.Argument>
                   <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                 </ActivityAction.Argument>
-                <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="522,7950" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="686,7813" sap2010:WorkflowViewState.IdRef="Sequence_3">
                   <Sequence.Variables>
                     <Variable x:TypeArguments="ui:UiElement" Name="resultCountElement" />
                     <Variable x:TypeArguments="x:Int32" Default="0" Name="resultCount" />
@@ -206,7 +206,7 @@
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '로그인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '로그인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="1679, 229, 212, 44" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='QUICK_MENU_btnLogin' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='QUICK_MENU_btnLogin' tag='BUTTON' type='button' class='mainlogin' aaname='로그인' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='로그인' /&gt;" Guid="084e12fe-ad47-4210-96bc-5e4adac3ef81" InformativeScreenshot="8705715ab7fc10d7232ff22868d40a67.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -215,7 +215,7 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Double" DisplayName="Type Into 'nboratr'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,246" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="nboratr" Version="V5">
+                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Double" DisplayName="Type Into 'nboratr'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,246" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="nboratr" Version="V5">
                     <uix:NTypeInto.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/openLogin.do" DesignTimeRectangle="574, 552, 375, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='loginId' tableRow='1' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='loginId' type='text' tag='INPUT' class='int2' placeholder='아이디' aaname='아이디' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="6f7978d2-4c5b-4377-9c67-419be8b6c56e" InformativeScreenshot="c643a34e527f71f65e177c869e32ff59.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='로그인' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -234,7 +234,7 @@
                       </uix:VerifyExecutionTypeIntoOptions>
                     </uix:NTypeInto.VerifyOptions>
                   </uix:NTypeInto>
-                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Double" DisplayName="Type Into 'INPUT loginPwd'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,246" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="bora6402*" Version="V5">
+                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Double" DisplayName="Type Into 'INPUT loginPwd'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,246" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="bora6402*" Version="V5">
                     <uix:NTypeInto.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/openLogin.do" DesignTimeRectangle="574, 600, 375, 44" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='loginPwd' tableRow='1' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='loginPwd' type='password' tag='INPUT' class='pnt2' placeholder='PW' aaname='비밀번호를 입력합니다.' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="21802d0e-6942-4622-83de-22d7b52ff462" InformativeScreenshot="30ac2e9654a99946213ae2c2e7324d84.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='로그인' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -253,7 +253,7 @@
                       </uix:VerifyExecutionTypeIntoOptions>
                     </uix:NTypeInto.VerifyOptions>
                   </uix:NTypeInto>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click 'IMG'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click 'IMG'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/openLogin.do" DesignTimeRectangle="961, 552, 133, 92" DesignTimeScaleFactor="1.25" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='IMG' class='' aaname='로그인' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9622bb4e-4d80-4bc4-9d91-db7d7a89529e" InformativeScreenshot="ab97b4c77c366a763ab1a55cef0cec7e.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='로그인' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -262,8 +262,8 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DelayAfter="1" DisplayName="Keyboard Shortcuts" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,257" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_1" InteractionMode="HardwareEvents" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Shortcuts="[d(hk)][k(Enter)][u(hk)]" Version="V5" />
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_9" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DelayAfter="1" DisplayName="Keyboard Shortcuts" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,257" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_1" InteractionMode="HardwareEvents" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Shortcuts="[d(hk)][k(Enter)][u(hk)]" Version="V5" />
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_9" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" ContentHash="MxX3j9wN8UKLzPaV2WVQgQ" DesignTimeRectangle="930, 714, 63, 29" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='pwdChngBtn' tag='SPAN' type='' class='ui-button-text' aaname='확인' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='확인' /&gt;" Guid="5cf8636f-974d-4757-819f-66fd922e6689" InformativeScreenshot="c4a595d2e2bab4722c257cadc784c014.jpg" Reference="BlP1vrN3pkicaMkvnFDZUQ/Jiuwu-q_T0e81lNec1umKw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.Anchors>
@@ -274,7 +274,7 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '수입신고필증'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '수입신고필증'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="1840, 515, 58, 82" DesignTimeScaleFactor="1.25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='수입신고필증' parentid='quickmenu' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='수입신고필증' parentid='quickmenu' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='수입신고필증' /&gt;" Guid="1d4170eb-0d32-473d-92cc-a2236d5f0f1f" InformativeScreenshot="f72c76b629859a96f4d7ec699ef884cf.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -283,7 +283,7 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="1" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="" DesignTimeRectangle="1054, 223, 80, 49" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='unipass.customs.go.kr 내용:' role='dialog' /&gt;&lt;ctrl name='확인' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='unipass.customs.go.kr 내용:' role='dialog' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='확인' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='확인' /&gt;" Guid="c86368d0-eca7-4194-9831-4cb17815f3d7" InformativeScreenshot="a4848667caea763a747429018d6678ed.jpg" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='국가관세종합정보시스템 서비스 - Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -292,7 +292,7 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DelayBefore="2" DisplayName="Click 'A stg_web'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_5" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DelayBefore="2" DisplayName="Click 'A stg_web'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_5" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="789, 417, 94, 93" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' /&gt;&lt;webctrl id='stg_web' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='stg_web' tag='A' type='' class='stg_01' aaname='브라우저' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a805cc61-b79a-4b10-ab35-78c706bc6314" InformativeScreenshot="529737eb20fe00757e390725ce5daf73.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -301,12 +301,29 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DelayBefore="2" DisplayName="Click 'A stg_web'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_73" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
-                    <uix:NClick.Target>
-                      <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="785, 618, 175, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' /&gt;&lt;webctrl id='tabledataTable' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" Guid="5bdfff2d-dfa3-45b2-a649-fd1986b924bf" InformativeScreenshot="d1f851c49f867d2453c578ec44c4eb3f.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='비밀번호변경 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
-                    </uix:NClick.Target>
-                  </uix:NClick>
-                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DelayAfter="1" DisplayName="Type Into 'INPUT input_cert_pw'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,246" sap2010:WorkflowViewState.IdRef="NTypeInto_4" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="boratr6402*" Version="V5">
+                  <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="652,57" sap2010:WorkflowViewState.IdRef="CommentOut_17">
+                    <ui:CommentOut.Body>
+                      <Sequence DisplayName="무시된 액티비티" sap:VirtualizedContainerService.HintSize="650,245" sap2010:WorkflowViewState.IdRef="Sequence_102">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DelayBefore="2" DisplayName="Click 'A stg_web'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="616,185" sap2010:WorkflowViewState.IdRef="NClick_73" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                          <uix:NClick.Target>
+                            <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="785, 618, 175, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' /&gt;&lt;webctrl id='tabledataTable' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;" Guid="5bdfff2d-dfa3-45b2-a649-fd1986b924bf" InformativeScreenshot="d1f851c49f867d2453c578ec44c4eb3f.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='비밀번호변경 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                          </uix:NClick.Target>
+                        </uix:NClick>
+                      </Sequence>
+                    </ui:CommentOut.Body>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                        <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:CommentOut>
+                  <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DelayAfter="1" DisplayName="Type Into 'INPUT input_cert_pw'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,246" sap2010:WorkflowViewState.IdRef="NTypeInto_4" InteractionMode="SameAsCard" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Text="boratr6402*" Version="V5">
                     <uix:NTypeInto.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="774, 820, 502, 37" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' /&gt;&lt;webctrl id='input_cert_pw' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='input_cert_pw' tag='INPUT' type='password' class='passwd_input' placeholder='비밀번호를 입력하시오.' aaname='인증서 비밀번호 입력' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8730e5bd-93a1-42e4-8a6a-40df02d9ecf3" InformativeScreenshot="10b6ae628e8c7178b02f0713b0ad0323.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -325,7 +342,7 @@
                       </uix:VerifyExecutionTypeIntoOptions>
                     </uix:NTypeInto.VerifyOptions>
                   </uix:NTypeInto>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_6" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click '확인'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_6" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="790, 868, 143, 38" DesignTimeScaleFactor="1.25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' /&gt;&lt;webctrl parentid='btn_confirm_iframe' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='dscert' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='btn_confirm_iframe' tag='SPAN' type='' class='' aaname='확인' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='확인' /&gt;" Guid="cc50cebb-ad87-4278-8900-abed69075a7e" InformativeScreenshot="e1040d9e7b6bbc6f7b9b9b14bce39b5e.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.PointOffset>
@@ -334,7 +351,7 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="488,57" sap2010:WorkflowViewState.IdRef="CommentOut_16">
+                  <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="652,57" sap2010:WorkflowViewState.IdRef="CommentOut_16">
                     <ui:CommentOut.Body>
                       <Sequence DisplayName="무시된 액티비티" sap:VirtualizedContainerService.HintSize="450,245" sap2010:WorkflowViewState.IdRef="Sequence_86">
                         <sap:WorkflowViewStateService.ViewState>
@@ -360,12 +377,12 @@
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
                   </ui:CommentOut>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click '1주일'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_64" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click '1주일'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_64" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" ContentHash="0tUO0MmGD0SH4pbed_4xVQ" DesignTimeRectangle="999, 537, 78, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl name='dclr_weekBtn' tableRow='1' tag='BUTTON' /&gt;" Guid="6b4deadd-8a3e-43ef-a933-db3d5d9e2831" InformativeScreenshot="0561fb9f8f8cc6a8a10f2ced43beafb7.jpg" Reference="BlP1vrN3pkicaMkvnFDZUQ/YG-boJiNvEmK6_lt8lnGWA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NSelectItem DisplayName="Select Item '-- 선택 --'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,195" sap2010:WorkflowViewState.IdRef="NSelectItem_1" Item="사업자등록번호" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NSelectItem DisplayName="Select Item '-- 선택 --'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,195" sap2010:WorkflowViewState.IdRef="NSelectItem_1" Item="사업자등록번호" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NSelectItem.Items>
                       <scg:List x:TypeArguments="x:String" Capacity="2">
                         <x:String>-- 선택 --</x:String>
@@ -380,7 +397,7 @@
                       </uix:TargetAnchorable>
                     </uix:NSelectItem.Target>
                   </uix:NSelectItem>
-                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click '조회'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="488,194" sap2010:WorkflowViewState.IdRef="NClick_8" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DisplayName="Click '조회'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,194" sap2010:WorkflowViewState.IdRef="NClick_8" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NClick.Target>
                       <uix:TargetAnchorable BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="1714, 821, 59, 40" DesignTimeScaleFactor="1.25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='조회' parentname='MYC0112185S_fmSearch_table' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='조회' parentname='MYC0112185S_fmSearch_table' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='조회' /&gt;" Guid="865aa351-5ba0-4f39-9ed3-06201db90e4a" InformativeScreenshot="783951f989df76a678bc7b923221fcd1.jpg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                         <uix:TargetAnchorable.Anchors>
@@ -394,9 +411,9 @@
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                   </uix:NClick>
-                  <uix:NCheckState DisplayName="Check App State '35'" EnableIfNotExists="False" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="488,1119" sap2010:WorkflowViewState.IdRef="NCheckState_4" OutUiElement="[resultCountElement]" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
+                  <uix:NCheckState DisplayName="Check App State '35'" EnableIfNotExists="False" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="652,1119" sap2010:WorkflowViewState.IdRef="NCheckState_4" OutUiElement="[resultCountElement]" ScopeIdentifier="15086547-10e8-443c-85cc-0c1fd12e04bc" Version="V5">
                     <uix:NCheckState.IfExists>
-                      <Sequence DisplayName="타겟이 나타남" sap:VirtualizedContainerService.HintSize="450,782" sap2010:WorkflowViewState.IdRef="Sequence_81">
+                      <Sequence DisplayName="타겟이 나타남" sap:VirtualizedContainerService.HintSize="650,782" sap2010:WorkflowViewState.IdRef="Sequence_81">
                         <Sequence.Variables>
                           <Variable x:TypeArguments="x:String" Name="resultCountText" />
                         </Sequence.Variables>
@@ -2432,7 +2449,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                             <av:Size x:Key="ShapeSize">110,70</av:Size>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Sequence DisplayName="메일발송" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_96">
+                        <Sequence DisplayName="메일발송" sap:VirtualizedContainerService.HintSize="650,3132" sap2010:WorkflowViewState.IdRef="Sequence_96">
                           <Sequence.Variables>
                             <Variable x:TypeArguments="sd2:DataTable" Name="dtBLList" />
                             <Variable x:TypeArguments="x:String" Name="baseFolder" />
@@ -2443,7 +2460,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <Assign sap2010:Annotation.AnnotationText="파일경로" sap:VirtualizedContainerService.HintSize="556.8,205.6" sap2010:WorkflowViewState.IdRef="Assign_69">
+                          <Assign sap2010:Annotation.AnnotationText="파일경로" sap:VirtualizedContainerService.HintSize="616,88" sap2010:WorkflowViewState.IdRef="Assign_69">
                             <Assign.To>
                               <OutArgument x:TypeArguments="x:String">[baseFolder]</OutArgument>
                             </Assign.To>
@@ -2453,12 +2470,12 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
                           </Assign>
-                          <Assign sap2010:Annotation.AnnotationText="엑셀파일경로" sap:VirtualizedContainerService.HintSize="556.8,205.6" sap2010:WorkflowViewState.IdRef="Assign_70">
+                          <Assign sap2010:Annotation.AnnotationText="엑셀파일경로" sap:VirtualizedContainerService.HintSize="616,88" sap2010:WorkflowViewState.IdRef="Assign_70">
                             <Assign.To>
                               <OutArgument x:TypeArguments="x:String">[excelPath]</OutArgument>
                             </Assign.To>
@@ -2468,30 +2485,30 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
                           </Assign>
-                          <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="556.8,3007.2" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_4">
+                          <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="616,2896" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_4">
                             <ueab:ExcelProcessScopeX.Body>
                               <ActivityAction x:TypeArguments="ui:IExcelProcess">
                                 <ActivityAction.Argument>
                                   <DelegateInArgument x:TypeArguments="ui:IExcelProcess" Name="ExcelProcessScopeTag" />
                                 </ActivityAction.Argument>
-                                <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="555.2,2937.6" sap2010:WorkflowViewState.IdRef="Sequence_101">
+                                <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="558,2826" sap2010:WorkflowViewState.IdRef="Sequence_101">
                                   <sap:WorkflowViewStateService.ViewState>
                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
-                                  <ueab:ExcelApplicationCard DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="521.6,2877.6" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_4" ResizeWindow="None" WorkbookPath="[excelPath]">
+                                  <ueab:ExcelApplicationCard DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="524,2766" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_4" ResizeWindow="None" WorkbookPath="[excelPath]">
                                     <ueab:ExcelApplicationCard.Body>
                                       <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
                                         <ActivityAction.Argument>
                                           <DelegateInArgument x:TypeArguments="ue:IWorkbookQuickHandle" Name="Excel" />
                                         </ActivityAction.Argument>
-                                        <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="520,2658.4" sap2010:WorkflowViewState.IdRef="Sequence_97">
+                                        <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="522,2546" sap2010:WorkflowViewState.IdRef="Sequence_97">
                                           <Sequence.Variables>
                                             <Variable x:TypeArguments="sd2:DataTable" Name="dtUploadComplete" />
                                             <Variable x:TypeArguments="x:String" Name="strUploadTable" />
@@ -2502,8 +2519,8 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
-                                          <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="486.4,168.8" sap2010:WorkflowViewState.IdRef="ReadRangeX_3" Range="[Excel.Sheet(&quot;Sheet1&quot;).Range(&quot;A:G&quot;)]" SaveTo="[dtBLList]" />
-                                          <Assign sap2010:Annotation.AnnotationText="F,G 업로드완료인 경우만 추출" sap:VirtualizedContainerService.HintSize="486.4,205.6" sap2010:WorkflowViewState.IdRef="Assign_71">
+                                          <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="488,170" sap2010:WorkflowViewState.IdRef="ReadRangeX_3" Range="[Excel.Sheet(&quot;Sheet1&quot;).Range(&quot;A:G&quot;)]" SaveTo="[dtBLList]" />
+                                          <Assign sap2010:Annotation.AnnotationText="F,G 업로드완료인 경우만 추출" sap:VirtualizedContainerService.HintSize="488,206" sap2010:WorkflowViewState.IdRef="Assign_71">
                                             <Assign.To>
                                               <OutArgument x:TypeArguments="sd2:DataTable">[dtUploadComplete]</OutArgument>
                                             </Assign.To>
@@ -2518,16 +2535,16 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                               </scg:Dictionary>
                                             </sap:WorkflowViewStateService.ViewState>
                                           </Assign>
-                                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="486.4,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_53" Message="[&quot;[MAIL] 업로드 완료 대상=&quot; &amp; dtUploadComplete.Rows.Count.ToString &amp; &quot;건&quot;]" />
-                                          <If Condition="[dtUploadComplete.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="486.4,2049.6" sap2010:WorkflowViewState.IdRef="If_15">
+                                          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="488,175" sap2010:WorkflowViewState.IdRef="LogMessage_53" Message="[&quot;[MAIL] 업로드 완료 대상=&quot; &amp; dtUploadComplete.Rows.Count.ToString &amp; &quot;건&quot;]" />
+                                          <If Condition="[dtUploadComplete.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="488,1935" sap2010:WorkflowViewState.IdRef="If_15">
                                             <If.Then>
-                                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="484.8,1353.6" sap2010:WorkflowViewState.IdRef="Sequence_98">
+                                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="486,1238" sap2010:WorkflowViewState.IdRef="Sequence_98">
                                                 <sap:WorkflowViewStateService.ViewState>
                                                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                   </scg:Dictionary>
                                                 </sap:WorkflowViewStateService.ViewState>
-                                                <Assign sap2010:Annotation.AnnotationText="필요한 컬럼만 빼기" sap:VirtualizedContainerService.HintSize="451.2,205.6" sap2010:WorkflowViewState.IdRef="Assign_72">
+                                                <Assign sap2010:Annotation.AnnotationText="필요한 컬럼만 빼기" sap:VirtualizedContainerService.HintSize="452,88" sap2010:WorkflowViewState.IdRef="Assign_72">
                                                   <Assign.To>
                                                     <OutArgument x:TypeArguments="x:String">[strUploadTable]</OutArgument>
                                                   </Assign.To>
@@ -2537,32 +2554,32 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                   <sap:WorkflowViewStateService.ViewState>
                                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                       <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                     </scg:Dictionary>
                                                   </sap:WorkflowViewStateService.ViewState>
                                                 </Assign>
-                                                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dtUploadComplete]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="451.2,581.6" sap2010:WorkflowViewState.IdRef="ForEachRow_4">
+                                                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dtUploadComplete]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="452,583" sap2010:WorkflowViewState.IdRef="ForEachRow_4">
                                                   <ui:ForEachRow.Body>
                                                     <ActivityAction x:TypeArguments="sd2:DataRow">
                                                       <ActivityAction.Argument>
                                                         <DelegateInArgument x:TypeArguments="sd2:DataRow" Name="CurrentRow" />
                                                       </ActivityAction.Argument>
-                                                      <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="449.6,400" sap2010:WorkflowViewState.IdRef="Sequence_100">
+                                                      <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="450,401" sap2010:WorkflowViewState.IdRef="Sequence_100">
                                                         <sap:WorkflowViewStateService.ViewState>
                                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                           </scg:Dictionary>
                                                         </sap:WorkflowViewStateService.ViewState>
-                                                        <Assign sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="Assign_74">
+                                                        <Assign sap:VirtualizedContainerService.HintSize="416,175" sap2010:WorkflowViewState.IdRef="Assign_74">
                                                           <Assign.To>
                                                             <OutArgument x:TypeArguments="x:String">[strUploadTable]</OutArgument>
                                                           </Assign.To>
                                                           <Assign.Value>
-                                                            <InArgument x:TypeArguments="x:String">[strUploadTable &amp; "&lt;tr&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; color:#46566c;'&gt;" &amp; CurrentRow("신고필증파일명").ToString &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; color:#46566c;'&gt;" &amp; CurrentRow("B/L번호").ToString.Replace(",", "") &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; font-weight:bold; color:#345274;'&gt;" &amp; CurrentRow("신고필증업로드").ToString &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; font-weight:bold; color:#345274;'&gt;" &amp; CurrentRow("확인증업로드").ToString &amp; "&lt;/td&gt;&lt;/tr&gt;"]</InArgument>
+                                                            <InArgument x:TypeArguments="x:String">[strUploadTable &amp; "&lt;tr&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; color:#46566c;'&gt;" &amp; CurrentRow("신고필증파일명").ToString &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; color:#46566c;'&gt;" &amp; CurrentRow("B/L번호(정제)").ToString.Replace(",", "") &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; font-weight:bold; color:#345274;'&gt;" &amp; CurrentRow("신고필증업로드").ToString &amp; "&lt;/td&gt;&lt;td style='border:1px solid #d4dce7; padding:9px 12px; text-align:center; font-weight:bold; color:#345274;'&gt;" &amp; CurrentRow("확인증업로드").ToString &amp; "&lt;/td&gt;&lt;/tr&gt;"]</InArgument>
                                                           </Assign.Value>
                                                         </Assign>
-                                                        <Assign sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="Assign_73">
+                                                        <Assign sap:VirtualizedContainerService.HintSize="416,166" sap2010:WorkflowViewState.IdRef="Assign_73">
                                                           <Assign.To>
                                                             <OutArgument x:TypeArguments="x:String">[mailbody]</OutArgument>
                                                           </Assign.To>
@@ -2584,7 +2601,7 @@ strUploadTable &amp;
                                                     </ActivityAction>
                                                   </ui:ForEachRow.Body>
                                                 </ui:ForEachRow>
-                                                <Assign sap:VirtualizedContainerService.HintSize="451.2,174.4" sap2010:WorkflowViewState.IdRef="Assign_75">
+                                                <Assign sap:VirtualizedContainerService.HintSize="452,175" sap2010:WorkflowViewState.IdRef="Assign_75">
                                                   <Assign.To>
                                                     <OutArgument x:TypeArguments="x:String">[strUploadTable]</OutArgument>
                                                   </Assign.To>
@@ -2592,7 +2609,7 @@ strUploadTable &amp;
                                                     <InArgument x:TypeArguments="x:String">[strUploadTable &amp; "&lt;/tbody&gt;&lt;/table&gt;"]</InArgument>
                                                   </Assign.Value>
                                                 </Assign>
-                                                <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" Email="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" Password="{x:Null}" Port="{x:Null}" ReplyTo="{x:Null}" ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" Server="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Action="Forward" AttachmentInputMode="Existing" Body="[mailbody]" ConnectionId="03efe0ed-7b9d-4274-9e23-beba321f0ca3" ConnectionMode="IntegrationService" CreatedAfterSolutionSupport="True" DisplayName="Send SMTP Email" EnableSSL="True" sap:VirtualizedContainerService.HintSize="451.2,332" sap2010:WorkflowViewState.IdRef="SendMail_3" IgnoreCRL="False" IsBodyHtml="True" SecureConnection="Auto" Subject="[&quot;[RPA 알림] 수입신고 필증 및 수입신고 확인증 처리결과 &quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;)]" To="[String.Join(&quot;, &quot;, New String() {&quot;bora_it@boratr.co.kr&quot;,&quot;cm@boratr.co.kr&quot;})]" UseISConnection="True" UseRichTextEditor="True">
+                                                <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" Email="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" Password="{x:Null}" Port="{x:Null}" ReplyTo="{x:Null}" ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" Server="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Action="Forward" AttachmentInputMode="Existing" Body="[mailbody]" ConnectionId="03efe0ed-7b9d-4274-9e23-beba321f0ca3" ConnectionMode="IntegrationService" CreatedAfterSolutionSupport="True" DisplayName="Send SMTP Email" EnableSSL="True" sap:VirtualizedContainerService.HintSize="452,332" sap2010:WorkflowViewState.IdRef="SendMail_3" IgnoreCRL="False" IsBodyHtml="True" SecureConnection="Auto" Subject="[&quot;[RPA 알림] 수입신고 필증 및 수입신고 확인증 처리결과 &quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;)]" To="[String.Join(&quot;, &quot;, New String() {&quot;bora_it@boratr.co.kr&quot;,&quot;cm@boratr.co.kr&quot;})]" UseISConnection="True" UseRichTextEditor="True">
                                                   <ui:SendMail.AttachmentsBackup>
                                                     <usau:BackupSlot x:TypeArguments="umame:AttachmentInputMode" StoredValue="Existing">
                                                       <usau:BackupSlot.BackupValues>
@@ -2614,7 +2631,7 @@ strUploadTable &amp;
                                               </Sequence>
                                             </If.Then>
                                             <If.Else>
-                                              <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="484.8,566.4" sap2010:WorkflowViewState.IdRef="Sequence_99">
+                                              <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="486,567" sap2010:WorkflowViewState.IdRef="Sequence_99">
                                                 <Sequence.Variables>
                                                   <Variable x:TypeArguments="x:String" Name="mailbody2" />
                                                 </Sequence.Variables>
@@ -2623,7 +2640,7 @@ strUploadTable &amp;
                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                   </scg:Dictionary>
                                                 </sap:WorkflowViewStateService.ViewState>
-                                                <Assign sap:VirtualizedContainerService.HintSize="451.2,174.4" sap2010:WorkflowViewState.IdRef="Assign_76">
+                                                <Assign sap:VirtualizedContainerService.HintSize="452,175" sap2010:WorkflowViewState.IdRef="Assign_76">
                                                   <Assign.To>
                                                     <OutArgument x:TypeArguments="x:String">[mailbody2]</OutArgument>
                                                   </Assign.To>
@@ -2639,7 +2656,7 @@ strUploadTable &amp;
 "&lt;/div&gt;"]</InArgument>
                                                   </Assign.Value>
                                                 </Assign>
-                                                <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" Email="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" Password="{x:Null}" Port="{x:Null}" ReplyTo="{x:Null}" ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" Server="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Action="Forward" AttachmentInputMode="Existing" Body="[mailbody2]" ConnectionId="03efe0ed-7b9d-4274-9e23-beba321f0ca3" ConnectionMode="IntegrationService" CreatedAfterSolutionSupport="True" DisplayName="Send SMTP Email" EnableSSL="True" sap:VirtualizedContainerService.HintSize="451.2,332" sap2010:WorkflowViewState.IdRef="SendMail_4" IgnoreCRL="False" IsBodyHtml="True" SecureConnection="Auto" Subject="[&quot;[RPA 알림] 수입신고 필증 및 수입신고 확인증 처리결과 &quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;)]" To="[String.Join(&quot;, &quot;, New String() {&quot;bora_it@boratr.co.kr&quot;,&quot;cm@boratr.co.kr&quot;})]" UseISConnection="True" UseRichTextEditor="True">
+                                                <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" Email="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" Password="{x:Null}" Port="{x:Null}" ReplyTo="{x:Null}" ResourceAttachmentList="{x:Null}" ResourceAttachments="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" Server="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" Action="Forward" AttachmentInputMode="Existing" Body="[mailbody2]" ConnectionId="03efe0ed-7b9d-4274-9e23-beba321f0ca3" ConnectionMode="IntegrationService" CreatedAfterSolutionSupport="True" DisplayName="Send SMTP Email" EnableSSL="True" sap:VirtualizedContainerService.HintSize="452,332" sap2010:WorkflowViewState.IdRef="SendMail_4" IgnoreCRL="False" IsBodyHtml="True" SecureConnection="Auto" Subject="[&quot;[RPA 알림] 수입신고 필증 및 수입신고 확인증 처리결과 &quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;)]" To="[String.Join(&quot;, &quot;, New String() {&quot;bora_it@boratr.co.kr&quot;,&quot;cm@boratr.co.kr&quot;})]" UseISConnection="True" UseRichTextEditor="True">
                                                   <ui:SendMail.AttachmentsBackup>
                                                     <usau:BackupSlot x:TypeArguments="umame:AttachmentInputMode" StoredValue="Existing">
                                                       <usau:BackupSlot.BackupValues>
