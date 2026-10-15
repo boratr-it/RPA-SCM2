@@ -157,7 +157,7 @@
       <AssemblyReference>UiPath.Mail.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1259,683" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="873.2,683.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -169,8 +169,8 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
           <av:Point x:Key="ShapeLocation">5,35</av:Point>
-          <av:Size x:Key="ShapeSize">50,50</av:Size>
-          <av:PointCollection x:Key="ConnectorLocation">55,60 105,60</av:PointCollection>
+          <av:Size x:Key="ShapeSize">49.6,49.6</av:Size>
+          <av:PointCollection x:Key="ConnectorLocation">54.6,59.8 84.6,59.8 84.6,60.2 105,60.2</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <Flowchart.StartNode>
@@ -180,8 +180,8 @@
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <av:Point x:Key="ShapeLocation">105,25</av:Point>
-            <av:Size x:Key="ShapeSize">110,70</av:Size>
-            <av:PointCollection x:Key="ConnectorLocation">215,60 265,60</av:PointCollection>
+            <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
+            <av:PointCollection x:Key="ConnectorLocation">215.4,60.2 265,60.2</av:PointCollection>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
         <Sequence DisplayName="Unipass" sap:VirtualizedContainerService.HintSize="722,8068" sap2010:WorkflowViewState.IdRef="Sequence_2">
@@ -629,8 +629,8 @@
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <av:Point x:Key="ShapeLocation">265,25</av:Point>
-                <av:Size x:Key="ShapeSize">110,70</av:Size>
-                <av:PointCollection x:Key="ConnectorLocation">375,60 435,60</av:PointCollection>
+                <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
+                <av:PointCollection x:Key="ConnectorLocation">375.4,60.2 435,60.2</av:PointCollection>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
             <Sequence DisplayName="필증엑셀 작업" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_19">
@@ -884,8 +884,8 @@
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <av:Point x:Key="ShapeLocation">435,25</av:Point>
-                    <av:Size x:Key="ShapeSize">110,70</av:Size>
-                    <av:PointCollection x:Key="ConnectorLocation">545,60 575,60 575,105 165,105 165,170 195,170</av:PointCollection>
+                    <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
+                    <av:PointCollection x:Key="ConnectorLocation">545.4,60.2 575.4,60.2 575.4,105 165,105 165,170.2 195,170.2</av:PointCollection>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <Sequence DisplayName="수입식품정보마루" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_25">
@@ -1815,24 +1815,24 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <av:Point x:Key="ShapeLocation">195,135</av:Point>
-                        <av:Size x:Key="ShapeSize">110,70</av:Size>
+                        <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
                         <av:PointCollection x:Key="ConnectorLocation">305,170 375,170</av:PointCollection>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <Sequence DisplayName="ERP 업로드" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_54">
+                    <Sequence DisplayName="ERP 업로드" sap:VirtualizedContainerService.HintSize="902,15901" sap2010:WorkflowViewState.IdRef="Sequence_54">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ui:KillProcess ContinueOnError="{x:Null}" Process="{x:Null}" AppliesTo="All" DisplayName="Kill Process" sap:VirtualizedContainerService.HintSize="740,175" sap2010:WorkflowViewState.IdRef="KillProcess_1" ProcessName="Neoweb" />
-                      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="ERP iU" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="740,15666" sap2010:WorkflowViewState.IdRef="NApplicationCard_12" ScopeGuid="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V2" WindowResize="Maximize">
+                      <ui:KillProcess ContinueOnError="{x:Null}" Process="{x:Null}" AppliesTo="All" DisplayName="Kill Process" sap:VirtualizedContainerService.HintSize="868,175" sap2010:WorkflowViewState.IdRef="KillProcess_1" ProcessName="Neoweb" />
+                      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="ERP iU" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="868,15666" sap2010:WorkflowViewState.IdRef="NApplicationCard_12" ScopeGuid="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V2" WindowResize="Maximize">
                         <uix:NApplicationCard.Body>
                           <ActivityAction x:TypeArguments="x:Object">
                             <ActivityAction.Argument>
                               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                             </ActivityAction.Argument>
-                            <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="738,15419" sap2010:WorkflowViewState.IdRef="Sequence_55">
+                            <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="866,15419" sap2010:WorkflowViewState.IdRef="Sequence_55">
                               <Sequence.Variables>
                                 <Variable x:TypeArguments="x:String" Name="twoweekage" />
                                 <Variable x:TypeArguments="x:String" Name="excelPath" />
@@ -1842,7 +1842,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'BORATR'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_11" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="BORATR" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'BORATR'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_11" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="BORATR" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1008, 405, 325, 31" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='tt' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='tt' role='editable text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="b7fd8a6b-abb9-479e-bb9e-9a2528efb534" InformativeScreenshot="b074ccca647d8bc33ed867b6a64cc8f9.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1861,7 +1861,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:VerifyExecutionTypeIntoOptions>
                                 </uix:NTypeInto.VerifyOptions>
                               </uix:NTypeInto>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '0000'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_12" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="1000" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '0000'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_12" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="1000" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1008, 488, 325, 31" DesignTimeScaleFactor="1" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='tt' idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='tt' role='editable text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="064c7530-0a30-4643-9818-5f776e35c8ba" InformativeScreenshot="581fbf5b05d3b0cd2d8a1c802ce321e3.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1880,7 +1880,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:VerifyExecutionTypeIntoOptions>
                                 </uix:NTypeInto.VerifyOptions>
                               </uix:NTypeInto>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '2025050702'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_14" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="20220923ed" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '2025050702'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_14" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="20220923ed" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1020, 578, 406, 39" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='tt' idx='3' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='tt' role='editable text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="a5852d2e-b9f2-4a34-b74c-b7b0e5e4f05c" InformativeScreenshot="2b7f97a1b9e979466624e9c7456b7464.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1899,7 +1899,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:VerifyExecutionTypeIntoOptions>
                                 </uix:NTypeInto.VerifyOptions>
                               </uix:NTypeInto>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'editable text tt1'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_15" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="0801" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'editable text tt1'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_15" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="0801" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1020, 682, 406, 39" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='tt1' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='tt1' role='editable text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="d075f238-fcdf-4573-9f1b-5e04b19b115b" InformativeScreenshot="fb1b0cb1861b0ae31d460a672fd39f5e.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1908,7 +1908,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:TargetAnchorable>
                                 </uix:NTypeInto.Target>
                               </uix:NTypeInto>
-                              <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="5" DisplayName="Click '0'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,194" sap2010:WorkflowViewState.IdRef="NClick_46" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                              <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="5" DisplayName="Click '0'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,194" sap2010:WorkflowViewState.IdRef="NClick_46" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                 <uix:NClick.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1026, 771, 402, 52" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='progressbar' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='progressbar' role='progress bar' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='0' /&gt;" Guid="63a7cece-20bf-440d-8ecd-6c7bfc5c651c" InformativeScreenshot="7cd631d3efa807fd0aa2145704896d7b.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1917,7 +1917,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:TargetAnchorable>
                                 </uix:NClick.Target>
                               </uix:NClick>
-                              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'graphic btn_PopupSearch…'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,194" sap2010:WorkflowViewState.IdRef="NClick_47" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'graphic btn_PopupSearch…'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,194" sap2010:WorkflowViewState.IdRef="NClick_47" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                 <uix:NClick.Target>
                                   <uix:TargetAnchorable DesignTimeRectangle="1501, 22, 31, 31" DesignTimeScaleFactor="1.25" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='btn_PopupSearch_Image' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='btn_PopupSearch_Image' role='graphic' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="3f6b140e-a12c-4b34-a33b-a66efeff00cc" InformativeScreenshot="0958d6e4804fea4c5965ec2b157f8ba5.jpg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1926,7 +1926,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:TargetAnchorable>
                                 </uix:NClick.Target>
                               </uix:NClick>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'editable text searchWord(1)'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_16" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="통관리스트" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'editable text searchWord(1)'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_16" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="통관리스트" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable ContentHash="I6J4tGUROkq-OLIYdES5kw" DesignTimeRectangle="12, 61, 405, 43" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='searchWord' /&gt;" Guid="422dc1cc-1785-46b4-b304-26fb3c5a461e" InformativeScreenshot="808ad5ef43e1a019cd188a318cc31be1.jpg" Reference="BlP1vrN3pkicaMkvnFDZUQ/08SeIPkQqU6ObS0hQvH_hQ" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.PointOffset>
@@ -1945,8 +1945,8 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:VerifyExecutionTypeIntoOptions>
                                 </uix:NTypeInto.VerifyOptions>
                               </uix:NTypeInto>
-                              <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DelayAfter="5" DisplayName="Keyboard Shortcuts" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,257" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_10" InteractionMode="HardwareEvents" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Shortcuts="[d(hk)][k(Enter)][u(hk)]" Version="V5" />
-                              <Assign sap:VirtualizedContainerService.HintSize="704,175" sap2010:WorkflowViewState.IdRef="Assign_23">
+                              <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DelayAfter="5" DisplayName="Keyboard Shortcuts" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,257" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_10" InteractionMode="HardwareEvents" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Shortcuts="[d(hk)][k(Enter)][u(hk)]" Version="V5" />
+                              <Assign sap:VirtualizedContainerService.HintSize="832,175" sap2010:WorkflowViewState.IdRef="Assign_23">
                                 <Assign.To>
                                   <OutArgument x:TypeArguments="x:String">[twoweekage]</OutArgument>
                                 </Assign.To>
@@ -1954,7 +1954,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   <InArgument x:TypeArguments="x:String">[DateTime.Now.AddDays(-14).ToString("yyyyMMdd")]</InArgument>
                                 </Assign.Value>
                               </Assign>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '신고기간'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_17" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[twoweekage]" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '신고기간'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_17" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[twoweekage]" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable ContentHash="RM0BeFv7wEKCDwkCaqW-wQ" DesignTimeRectangle="304, 171, 89, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl9' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='periodPicker' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='_maskBoxStart' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="67f4e114-170c-477f-b726-a19a595a0ea5" InformativeScreenshot="29d2a954e71e2bfcc3140b1f359e7643.jpg" IsResponsive="True" Reference="BlP1vrN3pkicaMkvnFDZUQ/A_oRB2iCaUSqugVbHJwerw" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.Anchors>
@@ -1965,7 +1965,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:TargetAnchorable>
                                 </uix:NTypeInto.Target>
                               </uix:NTypeInto>
-                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '레이블'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="704,246" sap2010:WorkflowViewState.IdRef="NTypeInto_18" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[Now.ToString(&quot;yyyy-MM-dd&quot;)]" Version="V5">
+                              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into '레이블'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="832,246" sap2010:WorkflowViewState.IdRef="NTypeInto_18" InteractionMode="SameAsCard" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[Now.ToString(&quot;yyyy-MM-dd&quot;)]" Version="V5">
                                 <uix:NTypeInto.Target>
                                   <uix:TargetAnchorable ContentHash="IKvoLwG8w0C4LdVKpgR-Dg" DesignTimeRectangle="420, 171, 89, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl9' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='periodPicker' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='_maskBoxEnd' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="569d351b-4766-45d3-ac26-0b19d84a1c1d" InformativeScreenshot="b3c68d511d1c4744262cc86b65218331.jpg" IsResponsive="True" Reference="BlP1vrN3pkicaMkvnFDZUQ/RqHH-SWjDE6BHSeKIWSsDA" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                                     <uix:TargetAnchorable.Anchors>
@@ -1976,7 +1976,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </uix:TargetAnchorable>
                                 </uix:NTypeInto.Target>
                               </uix:NTypeInto>
-                              <Assign sap:VirtualizedContainerService.HintSize="704,175" sap2010:WorkflowViewState.IdRef="Assign_62">
+                              <Assign sap:VirtualizedContainerService.HintSize="832,175" sap2010:WorkflowViewState.IdRef="Assign_62">
                                 <Assign.To>
                                   <OutArgument x:TypeArguments="x:String">[excelPath]</OutArgument>
                                 </Assign.To>
@@ -1984,8 +1984,8 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   <InArgument x:TypeArguments="x:String">["C:\Users\보라티알\Documents\UiPath\수입신고필증\수입신고필증" &amp; Now.ToString("yyyy-MM-dd") &amp; "\" &amp; "수입신고필증" &amp; Now.ToString("yyyy-MM-dd") &amp; ".xlsx"]</InArgument>
                                 </Assign.Value>
                               </Assign>
-                              <ui:KillProcess ContinueOnError="{x:Null}" Process="{x:Null}" AppliesTo="OnlyCurrentUser" DisplayName="Kill Process" sap:VirtualizedContainerService.HintSize="704,175" sap2010:WorkflowViewState.IdRef="KillProcess_4" ProcessName="Excel" />
-                              <ui:InvokeCode ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="엑셀 잠금파일삭제+읽기전용 속성 해제" Code="If System.IO.File.Exists(excelPath) Then&#xA;    Dim attr As System.IO.FileAttributes = System.IO.File.GetAttributes(excelPath)&#xA;&#xA;    If (attr And System.IO.FileAttributes.ReadOnly) = System.IO.FileAttributes.ReadOnly Then&#xA;        System.IO.File.SetAttributes(excelPath, attr And Not System.IO.FileAttributes.ReadOnly)&#xA;    End If&#xA;&#xA;    Dim lockFile As String = System.IO.Path.Combine(&#xA;        System.IO.Path.GetDirectoryName(excelPath),&#xA;        &quot;~$&quot; &amp; System.IO.Path.GetFileName(excelPath)&#xA;    )&#xA;&#xA;    If System.IO.File.Exists(lockFile) Then&#xA;        System.IO.File.Delete(lockFile)&#xA;    End If&#xA;End If" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="704,434" sap2010:WorkflowViewState.IdRef="InvokeCode_3">
+                              <ui:KillProcess ContinueOnError="{x:Null}" Process="{x:Null}" AppliesTo="OnlyCurrentUser" DisplayName="Kill Process" sap:VirtualizedContainerService.HintSize="832,175" sap2010:WorkflowViewState.IdRef="KillProcess_4" ProcessName="Excel" />
+                              <ui:InvokeCode ContinueOnError="{x:Null}" sap2010:Annotation.AnnotationText="엑셀 잠금파일삭제+읽기전용 속성 해제" Code="If System.IO.File.Exists(excelPath) Then&#xA;    Dim attr As System.IO.FileAttributes = System.IO.File.GetAttributes(excelPath)&#xA;&#xA;    If (attr And System.IO.FileAttributes.ReadOnly) = System.IO.FileAttributes.ReadOnly Then&#xA;        System.IO.File.SetAttributes(excelPath, attr And Not System.IO.FileAttributes.ReadOnly)&#xA;    End If&#xA;&#xA;    Dim lockFile As String = System.IO.Path.Combine(&#xA;        System.IO.Path.GetDirectoryName(excelPath),&#xA;        &quot;~$&quot; &amp; System.IO.Path.GetFileName(excelPath)&#xA;    )&#xA;&#xA;    If System.IO.File.Exists(lockFile) Then&#xA;        System.IO.File.Delete(lockFile)&#xA;    End If&#xA;End If" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="832,434" sap2010:WorkflowViewState.IdRef="InvokeCode_3">
                                 <ui:InvokeCode.Arguments>
                                   <InArgument x:TypeArguments="x:String" x:Key="excelPath">[excelPath]</InArgument>
                                 </ui:InvokeCode.Arguments>
@@ -1995,13 +1995,13 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                   </scg:Dictionary>
                                 </sap:WorkflowViewStateService.ViewState>
                               </ui:InvokeCode>
-                              <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="704,12033" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_3">
+                              <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="832,12033" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_3">
                                 <ueab:ExcelProcessScopeX.Body>
                                   <ActivityAction x:TypeArguments="ui:IExcelProcess">
                                     <ActivityAction.Argument>
                                       <DelegateInArgument x:TypeArguments="ui:IExcelProcess" Name="ExcelProcessScopeTag" />
                                     </ActivityAction.Argument>
-                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="702,11963" sap2010:WorkflowViewState.IdRef="Sequence_62">
+                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="830,11963" sap2010:WorkflowViewState.IdRef="Sequence_62">
                                       <Sequence.Variables>
                                         <Variable x:TypeArguments="x:String" Name="currentBL" />
                                         <Variable x:TypeArguments="x:String" Name="declarationFile" />
@@ -2011,13 +2011,13 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
-                                      <ueab:ExcelApplicationCard CreateNewFile="False" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="668,11903" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_3" ResizeWindow="None" WorkbookPath="[&quot;C:\Users\보라티알\Documents\UiPath\수입신고필증\수입신고필증&quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;) &amp; &quot;\&quot; &amp; &quot;수입신고필증&quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;) &amp; &quot;.xlsx&quot;]">
+                                      <ueab:ExcelApplicationCard CreateNewFile="False" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="796,11903" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_3" ResizeWindow="None" WorkbookPath="[&quot;C:\Users\보라티알\Documents\UiPath\수입신고필증\수입신고필증&quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;) &amp; &quot;\&quot; &amp; &quot;수입신고필증&quot; &amp; Now.ToString(&quot;yyyy-MM-dd&quot;) &amp; &quot;.xlsx&quot;]">
                                         <ueab:ExcelApplicationCard.Body>
                                           <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
                                             <ActivityAction.Argument>
                                               <DelegateInArgument x:TypeArguments="ue:IWorkbookQuickHandle" Name="Excel" />
                                             </ActivityAction.Argument>
-                                            <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="666,11683" sap2010:WorkflowViewState.IdRef="Sequence_61">
+                                            <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="794,11683" sap2010:WorkflowViewState.IdRef="Sequence_61">
                                               <Sequence.Variables>
                                                 <Variable x:TypeArguments="sd2:DataTable" Name="dtBLList" />
                                               </Sequence.Variables>
@@ -2026,14 +2026,14 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                 </scg:Dictionary>
                                               </sap:WorkflowViewStateService.ViewState>
-                                              <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="632,170" sap2010:WorkflowViewState.IdRef="ReadRangeX_2" Range="[Excel.Sheet(&quot;Sheet1&quot;).Range(&quot;A:G&quot;)]" SaveTo="[dtBLList]" />
-                                              <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dtBLList]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="632,11453" sap2010:WorkflowViewState.IdRef="ForEachRow_3">
+                                              <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="760,170" sap2010:WorkflowViewState.IdRef="ReadRangeX_2" Range="[Excel.Sheet(&quot;Sheet1&quot;).Range(&quot;A:G&quot;)]" SaveTo="[dtBLList]" />
+                                              <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dtBLList]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="760,11453" sap2010:WorkflowViewState.IdRef="ForEachRow_3">
                                                 <ui:ForEachRow.Body>
                                                   <ActivityAction x:TypeArguments="sd2:DataRow">
                                                     <ActivityAction.Argument>
                                                       <DelegateInArgument x:TypeArguments="sd2:DataRow" Name="CurrentRow" />
                                                     </ActivityAction.Argument>
-                                                    <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="630,11280" sap2010:WorkflowViewState.IdRef="Sequence_63">
+                                                    <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="758,11280" sap2010:WorkflowViewState.IdRef="Sequence_63">
                                                       <Sequence.Variables>
                                                         <Variable x:TypeArguments="x:String" Name="baseFolder" />
                                                         <Variable x:TypeArguments="x:String" Name="impFolder" />
@@ -2045,7 +2045,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                         </scg:Dictionary>
                                                       </sap:WorkflowViewStateService.ViewState>
-                                                      <Assign sap2010:Annotation.AnnotationText="BL NO" sap:VirtualizedContainerService.HintSize="596,206" sap2010:WorkflowViewState.IdRef="Assign_39">
+                                                      <Assign sap2010:Annotation.AnnotationText="BL NO" sap:VirtualizedContainerService.HintSize="724,206" sap2010:WorkflowViewState.IdRef="Assign_39">
                                                         <Assign.To>
                                                           <OutArgument x:TypeArguments="x:String">[currentBL]</OutArgument>
                                                         </Assign.To>
@@ -2058,7 +2058,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                           </scg:Dictionary>
                                                         </sap:WorkflowViewStateService.ViewState>
                                                       </Assign>
-                                                      <Assign sap2010:Annotation.AnnotationText="EXCEL 행번호" sap:VirtualizedContainerService.HintSize="596,206" sap2010:WorkflowViewState.IdRef="Assign_50">
+                                                      <Assign sap2010:Annotation.AnnotationText="EXCEL 행번호" sap:VirtualizedContainerService.HintSize="724,206" sap2010:WorkflowViewState.IdRef="Assign_50">
                                                         <Assign.To>
                                                           <OutArgument x:TypeArguments="x:Int32">[matchedRowNo]</OutArgument>
                                                         </Assign.To>
@@ -2071,7 +2071,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                           </scg:Dictionary>
                                                         </sap:WorkflowViewStateService.ViewState>
                                                       </Assign>
-                                                      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="596,57" sap2010:WorkflowViewState.IdRef="CommentOut_15">
+                                                      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="724,57" sap2010:WorkflowViewState.IdRef="CommentOut_15">
                                                         <ui:CommentOut.Body>
                                                           <Sequence DisplayName="무시된 액티비티" sap:VirtualizedContainerService.HintSize="450,257" sap2010:WorkflowViewState.IdRef="Sequence_80">
                                                             <sap:WorkflowViewStateService.ViewState>
@@ -2095,10 +2095,10 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                           </scg:Dictionary>
                                                         </sap:WorkflowViewStateService.ViewState>
                                                       </ui:CommentOut>
-                                                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="596,175" sap2010:WorkflowViewState.IdRef="LogMessage_42" Message="[&quot;[STATUS] ExcelRow=&quot; &amp; matchedRowNo.ToString &amp; &quot; / BL=[&quot; &amp; currentBL &amp; &quot;] / E=[&quot; &amp; CurrentRow(&quot;다운로드여부&quot;).ToString.Trim &amp; &quot;] / F=[&quot; &amp; CurrentRow(&quot;신고필증업로드&quot;).ToString.Trim &amp; &quot;] / G=[&quot; &amp; CurrentRow(&quot;확인증업로드&quot;).ToString.Trim &amp; &quot;]&quot;]" />
-                                                      <If Condition="[CurrentRow(&quot;다운로드여부&quot;).ToString.Trim = &quot;다운완료&quot;]" sap:VirtualizedContainerService.HintSize="596,10576" sap2010:WorkflowViewState.IdRef="If_7">
+                                                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="724,175" sap2010:WorkflowViewState.IdRef="LogMessage_42" Message="[&quot;[STATUS] ExcelRow=&quot; &amp; matchedRowNo.ToString &amp; &quot; / BL=[&quot; &amp; currentBL &amp; &quot;] / E=[&quot; &amp; CurrentRow(&quot;다운로드여부&quot;).ToString.Trim &amp; &quot;] / F=[&quot; &amp; CurrentRow(&quot;신고필증업로드&quot;).ToString.Trim &amp; &quot;] / G=[&quot; &amp; CurrentRow(&quot;확인증업로드&quot;).ToString.Trim &amp; &quot;]&quot;]" />
+                                                      <If Condition="[CurrentRow(&quot;다운로드여부&quot;).ToString.Trim = &quot;다운완료&quot;]" sap:VirtualizedContainerService.HintSize="724,10576" sap2010:WorkflowViewState.IdRef="If_7">
                                                         <If.Then>
-                                                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="594,10220" sap2010:WorkflowViewState.IdRef="Sequence_64">
+                                                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="722,10220" sap2010:WorkflowViewState.IdRef="Sequence_64">
                                                             <Sequence.Variables>
                                                               <Variable x:TypeArguments="x:String" Name="Folderpath" />
                                                             </Sequence.Variables>
@@ -2107,7 +2107,7 @@ FindIndex(Function(r) r("B/L번호(정제)").ToString.Trim = currentBL)]</InArgu
                                                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                               </scg:Dictionary>
                                                             </sap:WorkflowViewStateService.ViewState>
-                                                            <Assign sap2010:Annotation.AnnotationText="오늘 날짜 기준 폴더" sap:VirtualizedContainerService.HintSize="560,206" sap2010:WorkflowViewState.IdRef="Assign_54">
+                                                            <Assign sap2010:Annotation.AnnotationText="오늘 날짜 기준 폴더" sap:VirtualizedContainerService.HintSize="688,206" sap2010:WorkflowViewState.IdRef="Assign_54">
                                                               <Assign.To>
                                                                 <OutArgument x:TypeArguments="x:String">[baseFolder]</OutArgument>
                                                               </Assign.To>
@@ -2121,7 +2121,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                                 </scg:Dictionary>
                                                               </sap:WorkflowViewStateService.ViewState>
                                                             </Assign>
-                                                            <Assign sap2010:Annotation.AnnotationText="IMP_  폴더 찾는 경로(수입신고필증)" sap:VirtualizedContainerService.HintSize="560,206" sap2010:WorkflowViewState.IdRef="Assign_55">
+                                                            <Assign sap2010:Annotation.AnnotationText="IMP_  폴더 찾는 경로(수입신고필증)" sap:VirtualizedContainerService.HintSize="688,206" sap2010:WorkflowViewState.IdRef="Assign_55">
                                                               <Assign.To>
                                                                 <OutArgument x:TypeArguments="x:String">[impFolder]</OutArgument>
                                                               </Assign.To>
@@ -2134,7 +2134,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                                 </scg:Dictionary>
                                                               </sap:WorkflowViewStateService.ViewState>
                                                             </Assign>
-                                                            <Assign sap:VirtualizedContainerService.HintSize="560,175" sap2010:WorkflowViewState.IdRef="Assign_63">
+                                                            <Assign sap:VirtualizedContainerService.HintSize="688,175" sap2010:WorkflowViewState.IdRef="Assign_63">
                                                               <Assign.To>
                                                                 <OutArgument x:TypeArguments="x:String">[declarationFile]</OutArgument>
                                                               </Assign.To>
@@ -2142,17 +2142,17 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                                 <InArgument x:TypeArguments="x:String">[System.IO.Directory.GetDirectories(baseFolder, "IMP_*", System.IO.SearchOption.TopDirectoryOnly).SelectMany(Function(d) System.IO.Directory.GetFiles(d, "*" &amp; currentBL &amp; "*.pdf", System.IO.SearchOption.TopDirectoryOnly)).OrderByDescending(Function(f) System.IO.File.GetLastWriteTime(f)).FirstOrDefault()]</InArgument>
                                                               </Assign.Value>
                                                             </Assign>
-                                                            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="560,175" sap2010:WorkflowViewState.IdRef="LogMessage_46" Message="[&quot;[신고필증] BL=[&quot; &amp; currentBL &amp; &quot;] / File=[&quot; &amp; If(String.IsNullOrEmpty(declarationFile), &quot;없음&quot;, declarationFile) &amp; &quot;]&quot;]" />
-                                                            <If Condition="[(CurrentRow(&quot;신고필증업로드&quot;).ToString().Trim() &lt;&gt; &quot;업로드완료&quot; AndAlso Not String.IsNullOrEmpty(declarationFile)) OrElse (CurrentRow(&quot;다운로드여부&quot;).ToString().Trim() = &quot;다운완료&quot; AndAlso CurrentRow(&quot;확인증업로드&quot;).ToString().Trim() &lt;&gt; &quot;업로드완료&quot; AndAlso confirmationFiles IsNot Nothing AndAlso confirmationFiles.Length &gt; 0)]" sap:VirtualizedContainerService.HintSize="560,9398" sap2010:WorkflowViewState.IdRef="If_9">
+                                                            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="688,175" sap2010:WorkflowViewState.IdRef="LogMessage_46" Message="[&quot;[신고필증] BL=[&quot; &amp; currentBL &amp; &quot;] / File=[&quot; &amp; If(String.IsNullOrEmpty(declarationFile), &quot;없음&quot;, declarationFile) &amp; &quot;]&quot;]" />
+                                                            <If Condition="[(CurrentRow(&quot;신고필증업로드&quot;).ToString().Trim() &lt;&gt; &quot;업로드완료&quot; AndAlso Not String.IsNullOrEmpty(declarationFile)) OrElse (CurrentRow(&quot;다운로드여부&quot;).ToString().Trim() = &quot;다운완료&quot; AndAlso CurrentRow(&quot;확인증업로드&quot;).ToString().Trim() &lt;&gt; &quot;업로드완료&quot; AndAlso confirmationFiles IsNot Nothing AndAlso confirmationFiles.Length &gt; 0)]" sap:VirtualizedContainerService.HintSize="688,9398" sap2010:WorkflowViewState.IdRef="If_9">
                                                               <If.Then>
-                                                                <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="558,8985" sap2010:WorkflowViewState.IdRef="Sequence_73">
+                                                                <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="686,8985" sap2010:WorkflowViewState.IdRef="Sequence_73">
                                                                   <sap:WorkflowViewStateService.ViewState>
                                                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                     </scg:Dictionary>
                                                                   </sap:WorkflowViewStateService.ViewState>
-                                                                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="524,175" sap2010:WorkflowViewState.IdRef="LogMessage_40" Message="[&quot;ERP 입력 예정 B/L : [&quot; &amp; currentBL &amp; &quot;] / 길이=&quot; &amp; currentBL.Length.ToString]" />
-                                                                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'BL번호'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,245" sap2010:WorkflowViewState.IdRef="NClick_58" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                                                                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="652,175" sap2010:WorkflowViewState.IdRef="LogMessage_40" Message="[&quot;ERP 입력 예정 B/L : [&quot; &amp; currentBL &amp; &quot;] / 길이=&quot; &amp; currentBL.Length.ToString]" />
+                                                                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'BL번호'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,245" sap2010:WorkflowViewState.IdRef="NClick_58" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                                                     <uix:NClick.Target>
                                                                       <uix:TargetAnchorable ContentHash="9IwarG49fEOP51-OyWorUQ" DesignTimeRectangle="1164, 229, 231, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='txtBL' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="a095d74d-408b-4d4e-8e3f-5ec92823f506" InformativeScreenshot="4c9cb25b1c5268415c170de55c88e6f3.jpg" IsResponsive="True" Reference="BlP1vrN3pkicaMkvnFDZUQ/Mbcf3NkbAE24WFJw0tpyWw" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                                                                         <uix:TargetAnchorable.Anchors>
@@ -2163,7 +2163,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                                       </uix:TargetAnchorable>
                                                                     </uix:NClick.Target>
                                                                   </uix:NClick>
-                                                                  <uix:NSetText DelayAfter="1" DisplayName="Set Text 'BL번호'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,246" sap2010:WorkflowViewState.IdRef="NSetText_3" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[currentBL]" Version="V5">
+                                                                  <uix:NSetText DelayAfter="1" DisplayName="Set Text 'BL번호'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,246" sap2010:WorkflowViewState.IdRef="NSetText_3" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Text="[currentBL]" Version="V5">
                                                                     <uix:NSetText.Target>
                                                                       <uix:TargetAnchorable ContentHash="9IwarG49fEOP51-OyWorUQ" DesignTimeRectangle="1164, 229, 231, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl3' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='txtBL' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="a095d74d-408b-4d4e-8e3f-5ec92823f506" InformativeScreenshot="4c9cb25b1c5268415c170de55c88e6f3.jpg" IsResponsive="True" Reference="BlP1vrN3pkicaMkvnFDZUQ/Mbcf3NkbAE24WFJw0tpyWw" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                                                                         <uix:TargetAnchorable.Anchors>
@@ -2174,25 +2174,25 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                                                                       </uix:TargetAnchorable>
                                                                     </uix:NSetText.Target>
                                                                   </uix:NSetText>
-                                                                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="3" DisplayName="Click 'push button btn_Search'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,245" sap2010:WorkflowViewState.IdRef="NClick_59" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                                                                  <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="2" DelayBefore="1" DisplayName="Click 'push button btn_Search'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,245" sap2010:WorkflowViewState.IdRef="NClick_59" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                                                     <uix:NClick.Target>
                                                                       <uix:TargetAnchorable ContentHash="mAbSbcDV9kiXGeeS6DXfeQ" DesignTimeRectangle="751, 16, 82, 45" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl automationid='btn_Search' /&gt;" Guid="7ae72adc-089e-43e5-960b-2b564ac2f6db" InformativeScreenshot="dad7496bdc84a2df75d160858c0cf5de.jpg" Reference="BlP1vrN3pkicaMkvnFDZUQ/hQKoTc73qkW76iYRAVmWvg" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                                                                     </uix:NClick.Target>
                                                                   </uix:NClick>
-                                                                  <uix:NClick ActivateBefore="True" ClickType="[UiPath.UIAutomationNext.Enums.NClickType.Double]" DelayAfter="3" DisplayName="Click '42690-26-341970M'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="524,245" sap2010:WorkflowViewState.IdRef="NClick_60" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                                                                  <uix:NClick ActivateBefore="True" ClickType="[UiPath.UIAutomationNext.Enums.NClickType.Double]" DelayAfter="5" DelayBefore="1" DisplayName="Click '42690-26-341970M'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="652,245" sap2010:WorkflowViewState.IdRef="NClick_60" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                                                     <uix:NClick.Target>
                                                                       <uix:TargetAnchorable ContentHash="K8Kla2-fz0OYaJvFaILD2g" DesignTimeRectangle="168, 362, 162, 25" ElementType="Cell" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' /&gt;&lt;wnd ctrlname='mDataArea' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' /&gt;&lt;wnd ctrlname='_flex' /&gt;&lt;ctrl name='2' role='row' /&gt;&lt;ctrl name='NO_TO' role='cell' /&gt;" Guid="346f1e79-d4f4-4dbd-af10-271f6e0079ec" InformativeScreenshot="e9425b0b587a0c4f501b7e18b8866b80.jpg" Reference="BlP1vrN3pkicaMkvnFDZUQ/rG_wdMp2F0C5dgWgZH8pUQ" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                                                                     </uix:NClick.Target>
                                                                   </uix:NClick>
-                                                                  <uix:NCheckState sap2010:Annotation.AnnotationText="통관등록 메뉴 check app state" DisplayName="Check App State '통관등록'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="524,7769" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
+                                                                  <uix:NCheckState sap2010:Annotation.AnnotationText="통관등록 메뉴 check app state" DisplayName="Check App State '통관등록'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="652,7769" sap2010:WorkflowViewState.IdRef="NCheckState_2" ScopeIdentifier="c940c63d-4ac2-4805-bc16-5fd6c91dd9ee" Version="V5">
                                                                     <uix:NCheckState.IfExists>
-                                                                      <Sequence DisplayName="타겟이 나타남" sap:VirtualizedContainerService.HintSize="522,7312" sap2010:WorkflowViewState.IdRef="Sequence_75">
+                                                                      <Sequence DisplayName="타겟이 나타남" sap:VirtualizedContainerService.HintSize="650,7312" sap2010:WorkflowViewState.IdRef="Sequence_75">
                                                                         <sap:WorkflowViewStateService.ViewState>
                                                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                           </scg:Dictionary>
                                                                         </sap:WorkflowViewStateService.ViewState>
-                                                                        <If Condition="[CurrentRow(&quot;신고필증업로드&quot;).ToString.Trim &lt;&gt; &quot;업로드완료&quot; AndAlso&#xA;Not String.IsNullOrEmpty(declarationFile)]" sap:VirtualizedContainerService.HintSize="488,7252" sap2010:WorkflowViewState.IdRef="If_10">
+                                                                        <If Condition="[CurrentRow(&quot;신고필증업로드&quot;).ToString.Trim &lt;&gt; &quot;업로드완료&quot; AndAlso&#xA;Not String.IsNullOrEmpty(declarationFile)]" sap:VirtualizedContainerService.HintSize="616,7252" sap2010:WorkflowViewState.IdRef="If_10">
                                                                           <If.Then>
                                                                             <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="486,7032" sap2010:WorkflowViewState.IdRef="Sequence_77">
                                                                               <sap:WorkflowViewStateService.ViewState>
@@ -2446,7 +2446,7 @@ Now.ToString("yyyy-MM-dd")]</InArgument>
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <av:Point x:Key="ShapeLocation">375,135</av:Point>
-                            <av:Size x:Key="ShapeSize">110,70</av:Size>
+                            <av:Size x:Key="ShapeSize">110.4,70.4</av:Size>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
                         <Sequence DisplayName="메일발송" sap:VirtualizedContainerService.HintSize="650,3132" sap2010:WorkflowViewState.IdRef="Sequence_96">
