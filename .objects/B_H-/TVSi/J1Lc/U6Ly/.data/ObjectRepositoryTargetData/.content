@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zi_28L2bckeYS18FAgfcdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="190, 51, 391, 43" ElementType="Toolbar" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd aaname='로드 중' cls='msctls_progress32' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;&lt;wnd ctrlid='1001' title='주소: 다운로드' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;" Guid="aa7b3e50-8c45-4bdd-8733-38905d2442a9" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='#32770' title='열기' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="180, 39, 489, 65" FuzzySelectorArgument="&lt;wnd ctrlid='41477' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' check:text='다운로드' /&gt;" Guid="5fc6f302-66c4-4137-af50-5a69eec8b4cb" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f08a7b9bcc7b6369f4a861641a80b4b9.jpg" xmlns="">0PkXve3xB8UySPv63HueGMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

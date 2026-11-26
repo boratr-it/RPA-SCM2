@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 국가관세종합정보시스템 서비스",
+  "Type": "Screen",
+  "Id": "9OleZkUWfkGhGrsgMfJxDQ",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/9OleZkUWfkGhGrsgMfJxDQ",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-08-11T06:56:04.7959132Z",
+  "Updated": "2026-08-11T06:56:04.7959132Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

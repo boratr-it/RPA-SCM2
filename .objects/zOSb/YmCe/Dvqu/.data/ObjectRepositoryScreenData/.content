@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="411xamkhDUmwJSq9llFCZA" Reference="BlP1vrN3pkicaMkvnFDZUQ/DvquYh1NEk2G8o4YE3sbeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="UHnEBHHAvEOfiCvybe2Ekw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG8SURBVDhPnZM/SBtxFMfjCw9bQtRQYgcRkYjo8pIimhckiJOoFBERCbroGxzEdi4Ojg6OjiIuLVKoiDhkcHGXICIODkKjD0SCOImIyMmTO/l5XCk4fKb7fj734/7EPM+rc0GWIrJsIksVWR4T+bmnhr7ZS2T5hSwD4X3MEVPIso0sXmdu+vZPU//h33j2WoE8oxrP3paThcpQ18QWsnx6E0CWNLKcmfytbeTkAsjEDQVaUKB5BVpRoJMg9jNV3G/snf3sBsomlzrGzqrxrInJ8FENBRpVoCuLlJOFnZcAsoyaXM/iHSTy62EpjAK1KlDVIlup4pQFflsgR6WaArWEhSgUqN9/LrsWuLJA5svMZXgYgCw9yDKFLO1OZF+BahbwjA/5uSdkyUTI9kpfNshim+9+YNFOYYF7Z3AY3AVZPiLLmnPNjbQo0LgCPVjgKGJwjix3EXLAkAKVFKhigaWIwf/IKNCqAi1bwL7Am4jRvygrUL0CHStQOviQvvpHD4/D1JClTYF+KNCkue6/MIws1xFSwCmydCvQsAJNB95rwI80IssisuwhS8XHfp7SWvNgQoEKCtTtOm8C7+EZf2j0b2BEmnQAAAAASUVORK5CYII=" Reference="BlP1vrN3pkicaMkvnFDZUQ/DvquYh1NEk2G8o4YE3sbeg" Selector="&lt;html app='chrome.exe' title='수입식품정보마루' /&gt;" Url="https://impfood.mfds.go.kr/" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="3da37e25a59b7a71122cf12df05c065c.jpg" xmlns="">0JN7yFa5ahUmsAaRf86TqKw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

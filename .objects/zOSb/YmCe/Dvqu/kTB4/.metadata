@@ -1,0 +1,14 @@
+﻿{
+  "Name": "진행상태",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "kTB4ljFduE-k1L7jZ726zg",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/kTB4ljFduE-k1L7jZ726zg",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/DvquYh1NEk2G8o4YE3sbeg",
+  "Created": "2026-10-20T04:33:09.6305223Z",
+  "Updated": "2026-10-20T04:33:09.6305223Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

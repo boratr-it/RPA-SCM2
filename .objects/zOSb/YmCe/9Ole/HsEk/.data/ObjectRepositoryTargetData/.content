@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P5oL61jgnk6cstJKEjlagg" Reference="BlP1vrN3pkicaMkvnFDZUQ/HsEkL9NUOUCdJbyvSmbAug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="9, 0, 1062, 776" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='btnPdfDn' tag='BUTTON' /&gt;" Guid="74cdbee4-b7b7-4012-81f4-a4fc01ac6ee4" ScopeSelectorArgument="&lt;wnd app='chrome.exe'&#xD;&#xA;     cls='Chrome_WidgetWin_1'&#xD;&#xA;     title='수입신고필증*Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="33a136b55c21091a545f8ce8ec5179c0.jpg" xmlns="">0o2bNB1fHoU2g8Cjyf1WS4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

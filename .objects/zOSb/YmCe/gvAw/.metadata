@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 각종출력  수입식품정보마루",
+  "Type": "Screen",
+  "Id": "gvAwIeodaUWVcGRpJbHIKA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/gvAwIeodaUWVcGRpJbHIKA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/YmCeBKdBgkCBb6ytpiXj8w",
+  "Created": "2026-08-27T02:53:13.2016207Z",
+  "Updated": "2026-08-27T02:53:13.2016207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

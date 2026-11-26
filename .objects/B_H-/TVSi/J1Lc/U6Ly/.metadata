@@ -1,0 +1,13 @@
+﻿{
+  "Name": "다운로드",
+  "Type": "Element",
+  "Id": "U6LyP1lDYUmkjsDd-HYIZA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/U6LyP1lDYUmkjsDd-HYIZA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-15T08:21:16.1204257Z",
+  "Updated": "2026-09-15T08:21:16.1204257Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

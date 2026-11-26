@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mqcSzgN_yEmuHEKK73oE_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="impfood.mfds.go.kr/CFRAB01F01/getList" DesignTimeRectangle="379, 896, 13, 13" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='content' tag='TABLE' /&gt;&lt;webctrl id='rdoCmmnCode3' tableRow='7' tag='INPUT' /&gt;" Guid="2966a6f3-124a-448a-9b6c-cf35ce4d9225" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고 진행상황 :: 수입식품정보마루' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e80120a81d80761becbb8a8094785998.jpg" xmlns="">0mOh1qAdu2ESxIVMi_Ox5jA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

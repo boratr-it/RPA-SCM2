@@ -1,0 +1,14 @@
+﻿{
+  "Name": "BL 번호",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lpNQ4gfzH0KgJRycWU7xfQ",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/lpNQ4gfzH0KgJRycWU7xfQ",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Created": "2026-08-27T01:33:06.0980103Z",
+  "Updated": "2026-08-27T01:33:06.0980103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

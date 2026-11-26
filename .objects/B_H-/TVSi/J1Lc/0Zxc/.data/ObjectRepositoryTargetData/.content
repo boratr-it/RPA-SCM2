@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qoHRUgLArkm0P2725AM5-g" Reference="BlP1vrN3pkicaMkvnFDZUQ/0Zxc4OICpkqkDV4WzQ3kKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="19, 146, 43, 25" ElementType="Cell" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='_flex' /&gt;&lt;ctrl name='FlexGrid' role='table' /&gt;&lt;ctrl name='Row 1' role='row' /&gt;&lt;ctrl name='Row 1 Column 0' role='cell' /&gt;" Guid="cf1bfbde-67b1-4353-a3fd-d87f7c759ed6" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' ctrlname='AttachmentManager' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="867d02b3819e3a5534d4fb63bf92c550.jpg" xmlns="">0CGE68x_1jkCGWbzE3_bioA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

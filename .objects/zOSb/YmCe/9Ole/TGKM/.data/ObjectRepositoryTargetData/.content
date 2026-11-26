@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8CcYmrPFI0iHCnrZzABcUw" Reference="BlP1vrN3pkicaMkvnFDZUQ/TGKM2LukLkedmRGYwBK2oA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="8, 0, 847, 834" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;html app='chrome.exe' url='*unipass.customs.go.kr/csp/myc/csclfrmlotpt/ImpDclrCrfnOtptCtr/openMYC0112220S03.do*' /&gt;" Guid="bba91d52-0244-49fd-804d-c2445c5619c4" ScopeSelectorArgument="&lt;wnd app='chrome.exe'&#xA;     cls='Chrome_WidgetWin_1'&#xA;     title='수입신고필증*Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="02337b318c851cfc0508e8acb457571b.jpg" xmlns="">07FKcrfjAGUeETpxY0Knfmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

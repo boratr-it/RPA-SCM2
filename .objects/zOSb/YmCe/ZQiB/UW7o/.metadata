@@ -1,0 +1,13 @@
+﻿{
+  "Name": "적합",
+  "Type": "Element",
+  "Id": "UW7oxEIaIkWqE7iRQ3amVw",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/UW7oxEIaIkWqE7iRQ3amVw",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/ZQiBsQ0kU0yXq94Oa_2FqQ",
+  "Created": "2026-08-27T08:47:19.3053159Z",
+  "Updated": "2026-08-27T08:47:19.3053159Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IKvoLwG8w0C4LdVKpgR-Dg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="420, 171, 89, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl9' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='periodPicker' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='_maskBoxEnd' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;" Guid="569d351b-4766-45d3-ac26-0b19d84a1c1d" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="394, 171, 25, 25" ElementType="Text" FuzzySelectorArgument="&lt;wnd ctrlname='P_TR_TO_LIST' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='mDataArea' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGrid1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='oneGridItem1' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='bpPanelControl9' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='periodPicker' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' /&gt;&lt;wnd ctrlname='_label' matching:ctrlname='fuzzy' fuzzylevel:ctrlname='0.0' check:text='~' /&gt;" Guid="804075a0-e23d-46c1-ba5d-5d7c7d570805" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b3c68d511d1c4744262cc86b65218331.jpg" xmlns="">08mrM_kOb2EOMqS2QnFckyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

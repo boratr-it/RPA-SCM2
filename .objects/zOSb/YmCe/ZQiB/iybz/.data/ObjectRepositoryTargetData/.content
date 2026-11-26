@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rb-HZdOMqkqMBmzZyEWQnQ" Reference="BlP1vrN3pkicaMkvnFDZUQ/iybzj2_aRkCwBzrLqCEJOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://impfood.mfds.go.kr/CFRAB01F01/getList?page=1&amp;limit=10&amp;hdsrchStrtDt=2026-06-08&amp;hdsrchEndDt=2026-09-07&amp;rcno=&amp;cvaaClsNo=&amp;seqParam=&amp;guRcno=&amp;mberId=20000106738&amp;totalCnt=1&amp;dclPrductSeCd=&amp;impdclProgrsSttusCd=70&amp;prductNm=&amp;impOwrMtltyNm=&amp;srchRcno=&amp;srchStrtDt=2026-06-08&amp;srchEndDt=2026-09-07&amp;cstmReqstNo=&amp;impOwrBizrno=&amp;blno=SDB01S560549&amp;inskndCd=&amp;ovsmnfstNm=&amp;btnSearch=" ContentHash="81ehMtj3b0KzqPrB0HW8xQ" DesignTimeRectangle="233, 567, 16, 42" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='content' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='SPAN' /&gt;" Guid="d5a62db0-a661-4c54-8165-15a8cc92d77e" Reference="BlP1vrN3pkicaMkvnFDZUQ/iybzj2_aRkCwBzrLqCEJOA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고 진행상황 :: 수입식품정보마루' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7d80e65a2fcc51ad1f52191e262a24ce.jpg" xmlns="">0-tjOA3FzYkGcCecmg6f86A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ForEachUiElement</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='CurrentElement'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

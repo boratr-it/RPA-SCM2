@@ -1,0 +1,13 @@
+﻿{
+  "Name": "주소 CERPUExport",
+  "Type": "Element",
+  "Id": "V--yqyUq-0KnPFF1BDJ_8g",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/V--yqyUq-0KnPFF1BDJ_8g",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/J1LcAxhMUEiKXCr3wbKLdg",
+  "Created": "2026-09-16T08:56:14.9626262Z",
+  "Updated": "2026-09-16T08:56:14.9626262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hfGK0iL1uES_wcQgRoJywg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="882, 400, 88, 24" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='btnClose' /&gt;" Guid="2ce91f96-549a-4235-833f-e7d2c68ad80f" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' ctrlname='AttachmentManager' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="105cbed87499f83d254c217c43a8f3cf.jpg" xmlns="">0H4DrOf0CgUqOfx37UBuGeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

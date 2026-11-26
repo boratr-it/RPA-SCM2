@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MxX3j9wN8UKLzPaV2WVQgQ" Reference="BlP1vrN3pkicaMkvnFDZUQ/Jiuwu-q_T0e81lNec1umKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="930, 714, 63, 29" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='pwdChngBtn' tag='SPAN' type='' class='ui-button-text' aaname='확인' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='확인' /&gt;" Guid="5cf8636f-974d-4757-819f-66fd922e6689" ScopeSelectorArgument="&lt;html app='chrome.exe' title='국가관세종합정보시스템 서비스' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="930, 710, 63, 36" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='pwdChngBtn' tag='BUTTON' type='button' class='btn_submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-focus' aaname='확인' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='확인' /&gt;" Guid="23ee7ecf-f11b-45e2-8418-29fda29d71d0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c4a595d2e2bab4722c257cadc784c014.jpg" xmlns="">05KleKjjmIkWmFSfgp0_Rvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

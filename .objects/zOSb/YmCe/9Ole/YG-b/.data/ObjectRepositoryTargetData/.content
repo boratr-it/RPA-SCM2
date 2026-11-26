@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0tUO0MmGD0SH4pbed_4xVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="999, 537, 78, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl name='dclr_weekBtn' tableRow='1' tag='BUTTON' /&gt;" Guid="6b4deadd-8a3e-43ef-a933-db3d5d9e2831" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0561fb9f8f8cc6a8a10f2ced43beafb7.jpg" xmlns="">0TnixxWfqbk2ORXyPt41MLQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

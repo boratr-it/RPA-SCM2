@@ -1,0 +1,14 @@
+﻿{
+  "Name": "다운로드",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wpsqUKzNgUqb6qd0XTP3iA",
+  "Reference": "BlP1vrN3pkicaMkvnFDZUQ/wpsqUKzNgUqb6qd0XTP3iA",
+  "ParentRef": "BlP1vrN3pkicaMkvnFDZUQ/KGWDj3vqzECEVysU6lMH4Q",
+  "Created": "2026-08-24T02:21:37.0416185Z",
+  "Updated": "2026-08-24T02:21:37.0416185Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

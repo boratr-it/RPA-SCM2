@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BRdIGXSLokmRLRXRVAIctA" Reference="BlP1vrN3pkicaMkvnFDZUQ/qGOb5-xV60CJ9zIQTMz3UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="impfood.mfds.go.kr/CFRAB01F01/getList" DesignTimeRectangle="233, 797, 16, 16" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="[checkboxSelector]" Guid="839f2235-8f81-4cbd-99cc-b779784aed25" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고 진행상황 :: 수입식품정보마루' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c66d636c084eaf02ceeb4ca60c908d73.jpg" xmlns="">0Q-P-2LJLLkq9p6rcZhu1CQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="checkboxSelector" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

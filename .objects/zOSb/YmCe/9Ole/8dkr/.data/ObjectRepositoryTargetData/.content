@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rW_ycfKd0E6ZstTiGfQF2g" Reference="BlP1vrN3pkicaMkvnFDZUQ/8dkr6T7qIk6cwuO8wXvOnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="8, 0, 847, 834" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='unipass.customs.go.kr/csp/myc/csclfrmlotpt/ImpDclrCrfnOtptCtr/op*' role='pane' /&gt;&lt;ctrl idx='2' role='pane' /&gt;" Guid="52c8c89c-5169-4fcc-92c3-63294ffcacdc" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='unipass.customs.go.kr/csp/myc/csclfrmlotpt/ImpDclrCrfnOtptCtr/*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bc605685d586ad7e25f798786602fb16.jpg" xmlns="">0fSAG9rdg3UqLdAGD9RETrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

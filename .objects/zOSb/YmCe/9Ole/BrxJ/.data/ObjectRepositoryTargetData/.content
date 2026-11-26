@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LCFO27xb8E6wbf0J3lYCEg" Reference="BlP1vrN3pkicaMkvnFDZUQ/BrxJfUU5QUmxQiwBsoA7Qw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="unipass.customs.go.kr/csp/index.do" DesignTimeRectangle="309, 815, 115, 34" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='MYC0112185S_recordCount_table' tag='STRONG' /&gt;" Guid="8e565277-f7e5-42b5-9e0f-7da0cadcf85b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='수입신고필증 | 국가관세종합정보시스템 서비스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="086c6d7b12e434b585d1e679766ab741.jpg" xmlns="">0L8DyF4DySEKemPmImTHKaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
